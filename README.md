@@ -1,4 +1,4 @@
-# Pizza-sales-project
+# Pizza-sales-analysis
 
 This project dives into pizza sales data using SQL for data extraction and Tableau for visualization. We aim to uncover insights like total orders, revenue trends, popular pizza sizes, peak sales times, and top-performing pizzas. By combining SQL and Tableau, we'll turn raw data into actionable insights, helping us understand customer preferences and improve operations.
 
